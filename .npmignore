@@ -1,0 +1,12 @@
+npm-debug.log
+.vscode
+examples
+node_modules
+src
+test
+webpack.config.babel.js
+.babelrc
+.eslintrc.json
+.npmignore
+constants.js
+jsconfig.json
